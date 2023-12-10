@@ -3,6 +3,6 @@
 
 > Megjegyzés: Figyelje a lépéseket!
 
-'''Bash
+```Bash
 composer install ---
-'''
+```
